@@ -1,2 +1,2 @@
 # react-code-sample
-Snippet from one of my projects
+Module for a work with task tree
